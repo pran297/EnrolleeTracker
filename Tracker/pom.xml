@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>cabdriver-rest-api</artifactId>
+	<artifactId>Tracker</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>cabdriver-rest-api</name>
-	<description>Demo project for Spring Boot</description>
+	<name>Tracker</name>
+	<description>Project for Tracking Status of enrolles in healthcare program</description>
 
 	<properties>
 		<java.version>1.8</java.version>
